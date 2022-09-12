@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "./hardhat-fundme"
+		},
+		{
+			"path": "smartcontract-lottery"
 		}
 	],
 	"settings": {}
